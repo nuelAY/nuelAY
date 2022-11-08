@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuelAY
 - 👀 I’m interested in taking on as many react projects as possible
-- 🌱 I’m currently learning Famer Motion and FireBase
+- 🌱 I’m currently learning Framer Motion and FireBase
 - 💞️ I’m looking to collaborate on any new React Project
 - 📫 How to reach me https://nuelay99@gmail.com
 
