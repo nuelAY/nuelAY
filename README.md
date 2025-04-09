@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Framer Motion and FireBase
 - 💞️ I’m looking to collaborate on any new React Project
 - 📫 How to reach me https://nuelay99@gmail.com
+- The github link to my python and React Native projects is https://github.com/P-Moriarty
 
 <!---
 nuelAY/nuelAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
